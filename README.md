@@ -1,5 +1,8 @@
-# Image-Cartoonization-Project
+# Image Cartoonization Project - README
+
+## Project Overview
 This project implements an image cartoonization application using classical digital image processing techniques. The application converts regular photographs into cartoon-style sketches using edge detection, bilateral filtering, and color quantization.
+
 ## Features
 - Convert images to cartoon-style sketches
 - Interactive GUI with real-time parameter adjustments
@@ -64,4 +67,4 @@ The application allows adjustment of various parameters:
 This project is created for educational purposes as part of a Digital Image Processing Lab Project.
 
 ## Author
-Ubaid Ullah
+Student ID: B22F0263AI039 & B22F0761AI048
